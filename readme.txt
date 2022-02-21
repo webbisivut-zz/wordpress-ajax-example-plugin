@@ -12,7 +12,7 @@ Example plugin for WordPress to create ajax requests with Javascript.
 
 == Installation ==
 
-Installing "WordPress Charity Paytrail" can be done via the "Plugins > Add New" screen in your WordPress dashboard.
+Installing "WordPress Ajax Request Example Plugin" can be done via the "Plugins > Add New" screen in your WordPress dashboard.
 
 == Changelog ==
 
